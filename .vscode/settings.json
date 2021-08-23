@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net5.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/750c52d2-7e99-4139-b0e2-0101dc619c09/resourceGroups/rg-rvdg-vehicles-api/providers/Microsoft.Web/sites/as-rvdg-vehicles-api"
+}
