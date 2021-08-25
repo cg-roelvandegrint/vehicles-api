@@ -15,4 +15,4 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/roel-composite@0.1.0
+      - uses: cg-roelvandegrint/roel-composite@0.1.0
